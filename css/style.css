@@ -1,0 +1,172 @@
+@font-face{
+    font-family:Brandon;
+    src:url(../fonts/Brandon_light.otf) format("OpenType");
+    
+}
+
+
+#menubar{
+    background-image: url(../images/Escapebg.jpg);
+    min-height: 618px;
+}
+.custom_menu ul li a{
+    color: white !important;
+    font-family: Brandon;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right:35px !important;
+}
+.banner_tagline{
+    margin-top: 140px;
+}
+
+.banner_tagline p{
+    font-family: Brandon;
+    font-size: 32px;
+    color: #d2d1d2;
+}
+.banner_tagline h1{
+    font-family: Brandon;
+    font-size: 66px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.custom_btn{
+    width: 200px;
+    height: 68px;
+    font-family: Brandon;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid white;
+}
+.common_margin{
+    margin-top: 100px;
+}
+.single-service h1{
+    font-family: Brandon;
+    font-size: 60px;
+}
+.single-service p{
+    font-family: Brandon;
+    font-size: 18px;
+}
+.custom_heading{
+    font-weight: bold;
+}
+.second_row_bg{
+    background-color: #fafafa;
+    min-height: 430px;
+}
+.service-details h1{
+    font-family: Brandon;
+    font-size: 22px;
+    font-weight: bold;
+}
+service-details p{
+    font-family: Brandon;
+    font-size: 18px;
+}
+#clients{
+    background-color: #fafafa;
+    min-height: 808px;
+}
+
+#clients h1{
+    font-family: Brandon;
+    font-size: 60px;
+}
+#clients p{
+    font-family: Brandon;
+    font-size: 22px;
+}
+#team{
+    background-color: #111111;
+    min-height: 850px;
+}
+.team_title h1{
+    font-family: Brandon;
+    font-size: 60px;
+    color: white;
+}
+.team_title p{
+    font-family: Brandon;
+    font-size: 22px;
+    color: #777777 !important;
+}
+.single_member h1{
+    font-family: Brandon;
+    font-size: 18px;
+    color: white;
+}
+.single_member p{
+    font-family: Brandon;
+    font-size: 16px;
+    color: white;
+}
+.tweet{
+    color: white;
+    padding: 10px;
+    border: 3px solid white;
+    font-size: 16px;
+    border-radius: 50%;
+}
+.fb{
+    color: white;
+    padding: 10px;
+    border: 3px solid white;
+     font-size: 16px;
+    border-radius: 50%;
+}
+.pinterest{
+    color: white;
+    padding: 10px;
+    border: 3px solid white;
+     font-size: 16px;
+    border-radius: 50%;
+}
+#footer{
+    background-color: #7690c5;
+    min-height: 635px;
+        margin-top: -16px;
+}
+.footer_title h1{
+    font-family: Brandon;
+    font-size: 60px;
+    color: white;
+}
+.footer_title p{
+    font-family: Brandon;
+    font-size: 18px;
+    color: white;
+}
+.contact-details p{
+    font-family: Brandon;
+    font-size: 18px;
+    color: white;
+}
+.contact-image{
+    font-size: 18px;
+    color: white;
+}
+.custom_form{
+    line-height: 40px;
+}
+.footer_hr{
+    background-color:#7690c5!important;
+   margin-top: 90px !important;
+/*    border: 2px solid #7690c5; */
+    
+}
+.footer-endline{
+    font-family: Brandon;
+    font-size: 16px;
+    color: white;
+    
+}
+.custom_team_para{
+    font-family: Brandon;
+    font-size: 20px;
+    color: #ebebeb;
+}

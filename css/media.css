@@ -1,0 +1,31 @@
+/*Mobile*/
+@media screen and (max-width: 992px) { 
+	.single-service h1{
+	    font-size: 34px !important;
+	}
+    .custom_container{
+        height: 950px;
+    }
+    .custom_image{
+        padding-bottom: 12px;
+    }
+    .single_member{
+        margin-bottom: 12px;
+    }
+}
+
+/*Tab*/
+@media screen and (min-width: 992px) and (max-width: 1280px) { 
+	.single-service h1{
+	    font-size: 48px !important;
+	}
+
+}
+
+/*Desktop*/
+@media screen and (min-width: 1280px) { 
+	.single-service h1{
+/*	    font-size: 60px !important;*/
+	}
+
+}
